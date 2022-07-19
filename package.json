@@ -1,0 +1,23 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohity0/API-TEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohity0/API-TEST/issues"
+  },
+  "homepage": "https://github.com/rohity0/API-TEST#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "json-server": "^0.17.0"
+  }
+}
